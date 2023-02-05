@@ -98,3 +98,26 @@ body::-webkit-scrollbar {
 #home .home-items .welcome-items p {
     font-size: 20px;
 }
+
+/* home section btn */
+#home .home-items .btn {
+    width: 12rem;
+    height: 2rem;
+    background: #000;
+    position: absolute;
+    left: 44.8%;
+    top: 480px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+/* home section btn a tag */
+#home .home-items .btn a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: azure;
+    letter-spacing: 3px;
+}
