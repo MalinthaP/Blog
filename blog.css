@@ -141,7 +141,7 @@ body::-webkit-scrollbar {
     justify-content: center;
 }
 
-/* pposts box */
+/* latest posts box */
 #first-slide .pposts .box1,.box2,.box3 {
     background: #131414;
     width: 300px;
@@ -150,14 +150,14 @@ body::-webkit-scrollbar {
     color: #fff;
 }
 
-/* pposts img div */
+/* latest posts img div */
 #first-slide .pposts .box1 .box2 .box3, .img1, .img2, .img3 {
     width: 300px;
     height: 250px;
     background: floralwhite;
 }
 
-/* ppost img  */
+/* latest post img  */
 #first-slide .pposts .box1 .box2 .box3 .img1, .img2, .img3, img {
     width: 300px;
     height: 250px;
